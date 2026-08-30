@@ -1,0 +1,11 @@
+# Accidental nested Git repository - do not include
+Balochidastkar/
+
+# Node.js dependencies
+node_modules/
+next-app/node_modules/
+
+# Environment files containing passwords/secrets
+.env
+.env.*
+!.env.example
